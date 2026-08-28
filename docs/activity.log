@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-08-27T15:37:29Z
-Entry: refactor: optimize response parsing and error handling routines
-Sequence: 94/103
+Last updated: 2026-08-28T13:51:56Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 95/103
