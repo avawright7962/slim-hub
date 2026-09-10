@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-09-09T12:30:29Z
-Entry: fix: correct typo in documentation and error return strings
-Sequence: 101/103
+Last updated: 2026-09-10T11:55:31Z
+Entry: docs: document configuration parameters and environment variables
+Sequence: 102/103
